@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Felipe%20Rios&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20Fullstack%20%7C%20Business-Oriented&descAlignY=58&descSize=18&fontColor=fff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Felipe%20Fonseca&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20Fullstack%20%7C%20Business-Oriented&descAlignY=58&descSize=18&fontColor=fff&animation=twinkling" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -11,9 +11,9 @@
 <br/>
 
 <!-- BADGES DE CONTACTO / REDES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoan-felipe-fonseca-becerra-6696a0181/)
 [![GitHub](https://img.shields.io/badge/GitHub-Riuk98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riuk98)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](felipe.fonsecablog@gmail.com)
 
 </div>
 
