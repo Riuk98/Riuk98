@@ -18,14 +18,14 @@ Mi enfoque no es solo técnico, sino también estratégico: busco crear solucion
 
 **Backend / Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=python,js,bash,mysql,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,postgresql,fastapi" />
 
 </td>
 <td align="center" width="25%">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 
 </td>
 <td align="center" width="25%">
@@ -73,7 +73,6 @@ Actualmente estoy orientando mi stack hacia tecnologías con alta demanda labora
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### 🛠️ Arquitectura y Control de Versiones
