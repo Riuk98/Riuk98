@@ -18,7 +18,7 @@ Mi enfoque no es solo técnico, sino también estratégico: busco crear solucion
 
 **Backend / Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=python,js,bash,postgresql,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,postgresql" />
 
 </td>
 <td align="center" width="25%">
