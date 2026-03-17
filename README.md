@@ -67,14 +67,6 @@ Trabajo bajo principios claros:
 
 ---
 
-## 🔥 Mapa de contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riuk98&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
 ## 🧠 Lenguajes más usados
 
 <p align="center">
@@ -82,13 +74,11 @@ Trabajo bajo principios claros:
 </p>
 
 ---
-## 🐍 Animación de contribuciones
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Riuk98/Riuk98/output/snake.svg" />
 </p>
 
-## ⚡ Indicadores dinámicos
+## ⚡ Indicadores
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Riuk98&label=Visitas%20al%20perfil&color=blueviolet&style=flat" />
