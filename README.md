@@ -1,88 +1,72 @@
-# 👋 Hola, soy Felipe
+# <p align="center">HOLA! SOY FELIPE FONSECA 👋</p>
 
-Soy desarrollador de software en formación, enfocado en construir soluciones reales orientadas a negocio, con especial interés en sistemas empresariales, automatización y desarrollo fullstack.
+<p align="center">
+  <img src="URL_DE_TU_BANNER.png" alt="Banner Felipe Fonseca" width="100%">
+</p>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack - Mis Lenguajes Favoritos
 
-## 🚀 Sobre mí
+Aquí puedes ver las tecnologías con las que más disfruto trabajar y en las que me enfoco principalmente:
 
-Actualmente estoy desarrollando un proyecto de alto impacto enfocado en la creación de un **sistema ERP para PYMES**, con el objetivo de automatizar procesos críticos como:
+<p align="center">
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=orange" alt="C# Favorite" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=blue" alt="HTML Favorite" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=yellow&logoColor=black" alt="CSS Favorite" />
+  </a>
+</p>
 
-- Control de inventarios  
-- Facturación  
-- Gestión operativa  
-- Reducción de errores manuales  
+### Otras herramientas y fundamentos:
 
-Mi enfoque no es solo técnico, sino también estratégico: busco crear soluciones que realmente aporten valor en contextos empresariales reales.
-
----
-
-## 🧠 Enfoque profesional
-
-Trabajo bajo principios claros:
-
-- ✔️ Desarrollo orientado a problemas reales  
-- ✔️ Arquitecturas escalables y mantenibles  
-- ✔️ Enfoque en automatización de procesos  
-- ✔️ Pensamiento analítico y estructurado  
-- ✔️ Mejora continua basada en estándares del mercado  
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-Actualmente estoy orientando mi stack hacia tecnologías con alta demanda laboral y proyección:
-
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js, APIs REST  
-- **Base de datos:** PostgreSQL / MySQL  
-- **Control de versiones:** Git & GitHub  
-- **Arquitectura:** Desarrollo fullstack modular  
+* **Bases de Datos:** PostgreSQL
+* **Lógica y Algoritmia:** PSeInt, Estructuras de Datos, POO, Git
 
 ---
 
-## 📊 Proyecto principal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Mis Proyectos en Desarrollo
 
-### 🏢 ERP para PYMES
+### 🐄 ERP Hato Grande (Lácteos)
+Estamos desarrollando un sistema integral para la gestión de producción y venta de productos lácteos.
+* <img src="https://img.shields.io/badge/Estado-95%25%20Completado-green?style=flat-square" alt="Estado del Proyecto" />
+* *Módulos:* Inventario, Ventas, Producción.
 
-Sistema enfocado en empresas de producción y comercialización que presentan:
-
-- Procesos manuales ineficientes  
-- Falta de control en inventarios  
-- Problemas en facturación  
-
-**Objetivo:** Centralizar y automatizar la gestión operativa para mejorar la eficiencia y toma de decisiones.
-
----
-
-## 🧩 Intereses clave
-
-- Sistemas ERP y software empresarial  
-- Automatización de procesos  
-- Desarrollo fullstack  
-- Análisis de sistemas  
-- Arquitectura de software  
+### 🎮 C# Console Games
+Explorando la creación de conceptos de videojuegos interactivos directamente en la consola.
+* *Enfoque:* Lógica pura y uso dinámico del lenguaje.
 
 ---
 
-## 📈 Proyección
-
-Mi objetivo es consolidarme como desarrollador fullstack con capacidad de:
-
-- Diseñar soluciones completas de software  
-- Entender necesidades empresariales reales  
-- Implementar sistemas escalables  
-- Aportar valor en entornos productivos  
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Actualmente Aprendiendo</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/POO-Avanzado-blue?style=flat-square" alt="POO" /></li>
+        <li><img src="https://img.shields.io/badge/SQL-Advanced%20Joins-blue?style=flat-square" alt="SQL Joins" /></li>
+        <li><img src="https://img.shields.io/badge/UI/UX-Micro--interactions-blue?style=flat-square" alt="UI/UX" /></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Más Sobre Felipe</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/Enfoque-Night%20Owl-lightgrey?style=flat-square" alt="Night Owl" /></li>
+        <li><img src="https://img.shields.io/badge/Optimización-Windows%20LTSC/IoT-lightgrey?style=flat-square" alt="Windows" /></li>
+        <li><img src="https://img.shields.io/badge/Trading-XAUUSD-lightgrey?style=flat-square" alt="XAUUSD" /></li>
+        <li>Mi compañera coneja: <strong>Mona</strong> 🐰</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contacto
-
-- GitHub: *(agrega aquí tu perfil)*  
-- LinkedIn: *(agrega aquí tu perfil)*  
-
----
-
-## ⚡ Nota
-
-Este perfil refleja un proceso activo de crecimiento. Cada proyecto aquí publicado representa evolución técnica, aprendizaje aplicado y enfoque profesional.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de Felipe" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
