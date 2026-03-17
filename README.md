@@ -1,108 +1,39 @@
-# 👋 Hola, soy Felipe  
+## 📈 Actividad y contribuciones
 
-🚀 **Desarrollador Fullstack en formación | Enfocado en soluciones empresariales reales**
-
----
-
-## 🧑‍💻 Sobre mí  
-
-💡 Me especializo en el desarrollo de software orientado a negocio, con enfoque en:  
-- Automatización de procesos  
-- Sistemas ERP  
-- Soluciones escalables para PYMES  
-
-🎯 Actualmente desarrollando:  
-> 🏢 **Sistema ERP para automatización empresarial**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🧠 Filosofía de trabajo  
+## 🔥 Mapa de contribuciones
 
-```txt
-Problema real → Análisis → Solución eficiente → Escalabilidad
-```
-
-✔️ Desarrollo con propósito  
-✔️ Código limpio y mantenible  
-✔️ Pensamiento estructurado  
-✔️ Enfoque en valor empresarial  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true&area=true"/>
+</p>
 
 ---
 
-## ⚙️ Stack Tecnológico  
+## 🧠 Lenguajes más usados
 
-### 🚀 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
-### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Base de Datos  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-### 🔄 Herramientas  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-## 📊 Proyecto Principal  
+## 🐍 Animación de contribuciones
 
-### 🏢 ERP para PYMES  
-
-📌 Problema:  
-- Procesos manuales  
-- Errores en inventario  
-- Ineficiencia operativa  
-
-⚡ Solución:  
-Sistema centralizado que automatiza:  
-- Inventarios  
-- Facturación  
-- Gestión operativa  
-
-🎯 Impacto esperado:  
-- Reducción de errores  
-- Mejora en la toma de decisiones  
-- Optimización de recursos  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
-## 📈 En crecimiento  
+## ⚡ Indicadores dinámicos
 
-```mermaid
-graph LR
-A[Aprendizaje] --> B[Proyectos]
-B --> C[Experiencia]
-C --> D[Especialización]
-```
-
----
-
-## 🧩 Intereses  
-
-- 🏢 Software empresarial  
-- 🤖 Automatización  
-- 🧠 Arquitectura de software  
-- 📊 Análisis de sistemas  
-
----
-
-## 📫 Contacto  
-
-📌 GitHub: *(agrega tu perfil)*  
-📌 LinkedIn: *(agrega tu perfil)*  
-
----
-
-## ⚡ Estado actual  
-
-🟢 En constante evolución  
-🟢 Construyendo soluciones reales  
-🟢 Enfocado en crecimiento profesional  
-
----
-
-⭐ *Este perfil es una representación activa de mi progreso como desarrollador.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=flat&color=blue" />
+</p>
