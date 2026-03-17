@@ -66,14 +66,11 @@ Actualmente estoy orientando mi stack hacia tecnologías con alta demanda labora
 </p>
 
 ---
-
 ## 🐍 Animación de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Riuk98/Riuk98/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Riuk98/Riuk98/output/snake.svg" />
 </p>
-
----
 
 ## ⚡ Indicadores dinámicos
 
