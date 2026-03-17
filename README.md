@@ -18,7 +18,7 @@ Mi enfoque no es solo técnico, sino también estratégico: busco crear solucion
 
 **Backend / Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=python,js,bash,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,js,java,c#,bash,postgresql" />
 
 </td>
 <td align="center" width="25%">
@@ -53,7 +53,7 @@ Mi enfoque no es solo técnico, sino también estratégico: busco crear solucion
 Actualmente estoy orientando mi stack hacia tecnologías con alta demanda laboral y proyección:
 
 - **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js, APIs REST  
+- **Backend:** Node.js, Java, TypeScript, C#, APIs REST  
 - **Base de datos:** PostgreSQL / MySQL  
 - **Control de versiones:** Git & GitHub  
 - **Arquitectura:** Desarrollo fullstack modular  
