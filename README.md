@@ -1,124 +1,128 @@
-# 👋 Hola, soy Felipe
-
-Soy desarrollador de software en formación, enfocado en construir soluciones reales orientadas a negocio, con especial interés en sistemas empresariales, automatización y desarrollo fullstack.
-
----
-## 🚀 Sobre mí
-
-Mi enfoque no es solo técnico, sino también estratégico: busco crear soluciones que realmente aporten valor en contextos empresariales reales.
-
----
-## 🛠️ Tecnologías y herramientas que uso
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Felipe%20Rios&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20Fullstack%20%7C%20Business-Oriented&descAlignY=58&descSize=18&fontColor=fff&animation=twinkling" width="100%" />
 
-**Backend / Lenguajes**
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Building+scalable+fullstack+solutions;Automating+real+business+processes;Clean+architecture+%2B+strategic+thinking;From+idea+to+production+%E2%80%94+end+to+end" alt="Typing SVG" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,js,java,c#" />
+<br/>
 
-</td>
-<td align="center" width="25%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
-
-</td>
-<td align="center" width="25%">
-
-**Sistemas & Versiones**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github" />
-
-</td>
-<td align="center" width="25%">
-
-**Cloud (Fundamentos)**
-
-<img src="https://skillicons.dev/icons?i=gcp,azure,bash,postgresql" />
-
-</td>
-</tr>
-</table>
+<!-- BADGES DE CONTACTO / REDES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Riuk98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riuk98)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
 </div>
 
 ---
-## 🛠️ Tecnologías y herramientas
 
-Actualmente estoy orientando mi stack hacia tecnologías con alta demanda laboral y proyección:
+## 🧭 About Me
 
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Java, Django, C#, APIs REST  
-- **Base de datos:** PostgreSQL / MySQL  
-- **Control de versiones:** Git & GitHub  
-- **Arquitectura:** Desarrollo fullstack modular  
+I'm a software developer focused on building **real, business-oriented solutions** — not just code for the sake of code. My approach bridges technical depth with strategic thinking: understanding the problem domain first, then engineering a solution that is scalable, maintainable, and directly tied to business value.
 
-Actualmente estoy orientando mi stack hacia tecnologías con alta demanda laboral, sin descuidar mis bases sólidas en lógica y bases de datos:
+Currently sharpening my fullstack capabilities across the entire stack — from database design and REST APIs to component-driven UIs — with a strong emphasis on **automation**, **clean architecture**, and **systems that last**.
 
-### 🖥️ Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### ⚙️ Backend & Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### 🛠️ Arquitectura y Control de Versiones
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/APIs_REST-FF4F8B?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST" />
-</p>
+```text
+🔭 Focus Areas    →   Fullstack Development · Business Automation · Enterprise Systems
+🌱 Currently      →   Deepening expertise in Node.js, React & cloud-native patterns
+⚙️ Philosophy     →   Architecture first. Deliver value. Iterate with purpose.
+📍 Location       →   Colombia
+```
 
 ---
 
-## 🧠 Enfoque profesional
+## 🛠️ Tech Stack
 
-Trabajo bajo principios claros:
+<div align="center">
 
-- ✔️ Desarrollo orientado a problemas reales  
-- ✔️ Arquitecturas escalables y mantenibles  
-- ✔️ Enfoque en automatización de procesos  
-- ✔️ Pensamiento analítico y estructurado  
-- ✔️ Mejora continua basada en estándares del mercado  
+### Languages & Runtimes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF4F8B?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
 
 ---
 
-## 📈 Actividad y contribuciones
+## 📐 Engineering Principles
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riuk98&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Riuk98&theme=radical&hide_border=true" height="150"/>
-</p>
+<div align="center">
+
+| Principle | Application |
+|---|---|
+| **Problem-first** | Every solution starts with a clear understanding of the real-world problem |
+| **Scalable Architecture** | Modular, decoupled systems designed to grow without rewrites |
+| **Automation Mindset** | If it's repeated, it should be automated — from deployment to data pipelines |
+| **Analytical Rigor** | Decisions backed by data and systematic reasoning, not assumptions |
+| **Continuous Improvement** | Standards evolve; staying aligned with market best practices is non-negotiable |
+
+</div>
 
 ---
 
-## 🧠 Lenguajes más usados
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riuk98&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Riuk98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Riuk98&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riuk98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="145"/>
+
+</div>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Riuk98/Riuk98/output/snake.svg" />
-</p>
 
-## ⚡ Indicadores
+## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riuk98&label=Visitas%20al%20perfil&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/Riuk98?label=Seguidores&style=flat&color=blue" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Riuk98/Riuk98/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riuk98&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Riuk98&label=Profile+Views&color=7B68EE&style=flat)
+![Followers](https://img.shields.io/github/followers/Riuk98?label=Followers&style=flat&color=7B68EE)
+
+*"Engineered with purpose. Delivered with precision."*
+
+</div>
