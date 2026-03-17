@@ -3,10 +3,49 @@
 Soy desarrollador de software en formación, enfocado en construir soluciones reales orientadas a negocio, con especial interés en sistemas empresariales, automatización y desarrollo fullstack.
 
 ---
-
 ## 🚀 Sobre mí
 
 Mi enfoque no es solo técnico, sino también estratégico: busco crear soluciones que realmente aporten valor en contextos empresariales reales.
+
+---
+## 🛠️ Tecnologías y herramientas que uso
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Backend / Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=python,js,bash,mysql,fastapi" />
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
+
+</td>
+<td align="center" width="25%">
+
+**Sistemas & Versiones**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
+
+</td>
+<td align="center" width="25%">
+
+**Cloud (Fundamentos)**
+
+<img src="https://skillicons.dev/icons?i=gcp,azure" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 ## 🛠️ Tecnologías y herramientas
