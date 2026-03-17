@@ -121,16 +121,6 @@ Currently sharpening my fullstack capabilities across the entire stack — from 
   <img src="https://raw.githubusercontent.com/Riuk98/Riuk98/output/snake.svg" alt="Snake animation" />
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riuk98&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
 <div align="center">
 
 <!-- FOOTER ANIMADO -->
