@@ -1,3 +1,47 @@
+# 👋 Hola, soy Felipe
+
+Soy desarrollador de software en formación, enfocado en construir soluciones reales orientadas a negocio, con especial interés en sistemas empresariales, automatización y desarrollo fullstack.
+
+---
+
+## 🚀 Sobre mí
+
+Actualmente estoy desarrollando un proyecto de alto impacto enfocado en la creación de un **sistema ERP para PYMES**, con el objetivo de automatizar procesos críticos como:
+
+- Control de inventarios  
+- Facturación  
+- Gestión operativa  
+- Reducción de errores manuales  
+
+Mi enfoque no es solo técnico, sino también estratégico: busco crear soluciones que realmente aporten valor en contextos empresariales reales.
+
+---
+
+## 🧠 Enfoque profesional
+
+Trabajo bajo principios claros:
+
+- ✔️ Desarrollo orientado a problemas reales  
+- ✔️ Arquitecturas escalables y mantenibles  
+- ✔️ Enfoque en automatización de procesos  
+- ✔️ Pensamiento analítico y estructurado  
+- ✔️ Mejora continua basada en estándares del mercado  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+Actualmente estoy orientando mi stack hacia tecnologías con alta demanda laboral y proyección:
+
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, APIs REST  
+- **Base de datos:** PostgreSQL / MySQL  
+- **Control de versiones:** Git & GitHub  
+- **Arquitectura:** Desarrollo fullstack modular  
+
+---
+
+
 ## 📈 Actividad y contribuciones
 
 <p align="center">
