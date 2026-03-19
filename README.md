@@ -107,6 +107,7 @@ Currently sharpening my fullstack capabilities across the entire stack — from 
 <img src="https://github-readme-stats.vercel.app/api?username=Riuk98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=Riuk98&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riuk98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="145"/>
 
 </div>
 
